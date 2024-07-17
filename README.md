@@ -1,0 +1,1 @@
+The Packer Unpacker is a command-line utility designed to facilitate the packing and unpacking of text files. This project provides a straightforward way to bundle multiple .txt files into a single packed file and later retrieve them individually.
